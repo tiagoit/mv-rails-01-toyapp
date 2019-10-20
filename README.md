@@ -9,6 +9,6 @@ This project is the first approach at using Ruby on Rails framework. The goal is
 * Project's [Live version](https://shrouded-meadow-63396.herokuapp.com/)
 
 ##### Project made by
-Tiago Ferreira [@ferreirati](https://github.com/ferreirati}
+Tiago Ferreira [@ferreirati](https://github.com/ferreirati)
 
 Oscar De la Lanza [@oscardelalanza](https://github.com/oscardelalanza)
